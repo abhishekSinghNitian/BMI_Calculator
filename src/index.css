@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* npx tailwindcss -i ./src/index.css -o ./src/output.css --watch */
+/* import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; */
